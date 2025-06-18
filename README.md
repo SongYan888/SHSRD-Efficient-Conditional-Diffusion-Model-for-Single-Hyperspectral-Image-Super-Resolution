@@ -1,4 +1,6 @@
-# [JSTARS 2025] SHSRD: Efficient Conditional Diffusion Model for Single Hyperspectral Image Super-Resolution
+# Accepted by JSTARS 2025![1CFFD0F2](https://github.com/user-attachments/assets/db17f6b5-fe11-4aa7-84b1-803fce53cf7d)
+![1CFFC51B](https://github.com/user-attachments/assets/58cb0f1d-cfc3-4ff1-a1b2-afdca5f44897)
+ SHSRD: Efficient Conditional Diffusion Model for Single Hyperspectral Image Super-Resolution
 Code is coming soon.
 ## Abstract
 
